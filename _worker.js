@@ -17,7 +17,7 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-	'time.cloudflare.com:80#官方优选域名',
+'time.cloudflare.com:80#官方优选域名',
 'shopify.com:80#官方优选域名',
 'time.is:80#官方优选域名',
 'icook.hk:80#官方优选域名',
